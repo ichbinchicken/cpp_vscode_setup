@@ -9,7 +9,6 @@
             "VCPKG_TARGET_TRIPLET": "x64-linux",
             "CMAKE_C_COMPILER": "/usr/bin/clang-11",
             "CMAKE_CXX_COMPILER": "/usr/bin/clang++-11",
-            "CMAKE_PREFIX_PATH": "/usr/lib/llvm-11"
         }
     }
 ]
