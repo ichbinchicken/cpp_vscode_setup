@@ -15,13 +15,12 @@
 		"-Wextra",
 		"-Werror"
 	],
-	"clangd.path": "/usr/bin/clangd-11",
+	"clangd.path": "/usr/local/opt/llvm/bin/clangd",
 	"clangd.semanticHighlighting": true,
 	"cmake.buildBeforeRun": true,
 	"cmake.configureOnOpen": true,
 	"cmake.generator": "Ninja",
 	"cmake.saveBeforeBuild": true,
-	"editor.fontFamily": "Consolas, 'Courier New', monospace",
 	"editor.minimap.enabled": false,
 	"editor.rulers": [
 		100

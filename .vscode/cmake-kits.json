@@ -6,9 +6,9 @@
             "name":    "Ninja"
         },
         "cmakeSettings": {
-            "VCPKG_TARGET_TRIPLET": "x64-linux",
-            "CMAKE_C_COMPILER": "/usr/bin/clang-11",
-            "CMAKE_CXX_COMPILER": "/usr/bin/clang++-11",
+            "VCPKG_TARGET_TRIPLET": "x64-osx",
+            "CMAKE_C_COMPILER": "/usr/bin/clang",
+            "CMAKE_CXX_COMPILER": "/usr/bin/clang++"
         }
     }
 ]

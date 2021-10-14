@@ -2,6 +2,7 @@
 
 cmake_minimum_required(VERSION 3.16)
 project(HelloWorld DESCRIPTION "A hello world project" VERSION 0.0.1)
+set(CMAKE_CXX_STANDARD 20)
 
 # ———————————————————————————
 # find 3rd party dependencies
